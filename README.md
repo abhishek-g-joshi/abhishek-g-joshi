@@ -5,7 +5,8 @@ Hello, I am Abhishek Joshi a pre-final year Computer Science & Engineering stude
 
 [![Gmail Badge](https://img.shields.io/badge/-ajabhishekgjoshi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajabhishekgjoshi@gmail.com)](mailto:ajabhishekgjoshi@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekGJoshi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-g-joshi/)](https://www.linkedin.com/in/abhishek-g-joshi/)
-[![Instagram Badge](https://img.shields.io/badge/__abhi_joshi15_-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_abhi_joshi15/)](https://www.instagram.com/_abhi_joshi15/)
+[![Instagram Badge](https://img.shields.io/badge/__abhijoshi15_-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_abhi_joshi15/)](https://www.instagram.com/_abhi_joshi15/)
+[![Instagram Badge](https://img.shields.io/badge/-agjoshi15-blue?style=flat&logo=twitter&logoColor=white&link=https://mobile.twitter.com/a_g_joshi15)](https://mobile.twitter.com/a_g_joshi15)
 
 <!--
 **abhishek-g-joshi/abhishek-g-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
