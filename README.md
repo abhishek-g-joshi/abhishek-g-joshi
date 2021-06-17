@@ -1,7 +1,8 @@
-### Hi 👋, I am Abhishek Joshi
+ <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
+
 <br/>
 
-Hello, I am Abhishek Joshi a pre-final year Computer Science & Engineering student at [Walchand College of Engineering Sangli](http://www.walchandsangli.ac.in/). I am computer science enthusiast & a full stack developer.
+Hello, I am Abhishek Joshi a pre-final year Computer Science & Engineering student at [Walchand College of Engineering Sangli](http://www.walchandsangli.ac.in/). I am a computer science enthusiast & a full stack developer. I am a passionate individual who loves to explore new technologies and leverage them to solve real-life problems. Also I'm good at designing.
 
 [![Gmail Badge](https://img.shields.io/badge/-ajabhishekgjoshi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajabhishekgjoshi@gmail.com)](mailto:ajabhishekgjoshi@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekGJoshi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-g-joshi/)](https://www.linkedin.com/in/abhishek-g-joshi/)
@@ -11,17 +12,16 @@ Hello, I am Abhishek Joshi a pre-final year Computer Science & Engineering stude
 <!--
 **abhishek-g-joshi/abhishek-g-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a CoviCare: A resource management web application during COVID-19.
+- 👯 I’m looking forward for an opportunity to ulitize my knowledge and skills.
+- 💬 Talk with me about technology, economics and designing.
+- ⚡ Quote for Life : <i>The way of 'success' is the way of continuous pursuit of 'knowledge'...😊</i>
+<!-- - 🌱 I’m currently learning React.js -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages I know....***
 <br/>
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
