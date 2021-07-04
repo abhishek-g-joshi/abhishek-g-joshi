@@ -61,6 +61,7 @@ Here are some ideas to get you started:-->
 
 <br />
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-g-joshi&repo=CoviCare)](https://github.com/abhishek-g-joshi/CoviCare)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-g-joshi&repo=Question-Pine)](https://github.com/abhishek-g-joshi/Question-Pine)
 <br/>
  </details>
