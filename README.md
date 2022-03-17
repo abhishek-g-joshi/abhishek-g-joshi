@@ -2,7 +2,7 @@
 
 <br/>
 
-Hello, I am Abhishek Joshi a pre-final year Computer Science & Engineering student at [Walchand College of Engineering Sangli](http://www.walchandsangli.ac.in/). I am a computer science enthusiast & a full stack developer. I am a passionate individual who loves to explore new technologies and leverage them to solve real-life problems. Also I'm good at designing.
+Hello, I am Abhishek Joshi a final year Computer Science & Engineering student at [Walchand College of Engineering Sangli](http://www.walchandsangli.ac.in/). I am a computer science enthusiast & a full stack developer. I am a passionate individual who loves to explore new technologies and leverage them to solve real-life problems. Also I'm good at designing.
 
 [![Gmail Badge](https://img.shields.io/badge/-ajabhishekgjoshi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajabhishekgjoshi@gmail.com)](mailto:ajabhishekgjoshi@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekGJoshi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-g-joshi/)](https://www.linkedin.com/in/abhishek-g-joshi/)
@@ -14,7 +14,7 @@ Hello, I am Abhishek Joshi a pre-final year Computer Science & Engineering stude
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a CoviCare: A resource management web application during COVID-19.
+- 🔭 I’m currently working as a Software Engineering Intern at Mindbody.
 - 👯 I’m looking forward for an opportunity to ulitize my knowledge and skills.
 - 💬 Talk with me about technology, economics and designing.
 - ⚡ Quote for Life : <i>The way of 'success' is the way of continuous pursuit of 'knowledge'...😊</i>
