@@ -62,9 +62,7 @@ Here are some ideas to get you started:-->
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-g-joshi&repo=Parky)](https://github.com/abhishek-g-joshi/Parky)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-g-joshi&repo=
-ODataMovieApiWithEF)](https://github.com/abhishek-g-joshi/ODataMovieApiWithEF) 
-<br/>
+
  </details>
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhishek-g-joshi.abhishek-g-joshi)
