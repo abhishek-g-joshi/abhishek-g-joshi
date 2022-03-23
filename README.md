@@ -26,7 +26,9 @@ Here are some ideas to get you started:-->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages I know....***
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/-C%20-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c&logoColor=ffffff") <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-C%20-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c&logoColor=ffffff") <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-csharp-eed718?style=flat&logo=csharpt&logoColor=ffffff">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech & Tools Preference***
 <br/>
