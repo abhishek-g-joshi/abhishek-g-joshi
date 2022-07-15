@@ -67,7 +67,7 @@ Here are some ideas to get you started:-->
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-g-joshi&repo=Parky)](https://github.com/abhishek-g-joshi/Parky)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-g-joshi&repo=restful-web-services)](https://github.com/abhishek-g-joshi/restful-web-services)
 
  </details>
  
