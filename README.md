@@ -14,11 +14,12 @@ Hello, I am Abhishek Joshi a final year Computer Science & Engineering student a
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working as a Software Engineering Intern at Mindbody.
+- 🔭 I’m currently working as a Software Engineer at Gupshup.
+- 🔭 Ex- Software Engineering Intern at Mindbody.
 - 👯 I’m looking forward for an opportunity to ulitize my knowledge and skills.
 - 💬 Talk with me about technology, economics and designing.
 - ⚡ Quote for Life : <i>The way of 'success' is the way of continuous pursuit of 'knowledge'...😊</i>
-<!-- - 🌱 I’m currently learning React.js -->
+<!-- - 🌱 I’m currently learning springboot framework -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
